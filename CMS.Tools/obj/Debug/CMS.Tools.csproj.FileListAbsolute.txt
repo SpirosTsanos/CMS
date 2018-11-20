@@ -1,0 +1,28 @@
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+D:\_Code\STRS\CodeHub\Printect - MVVM - WFC - WPF\repos\CMS\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
+C:\Users\tsanos\source\repos\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csprojAssemblyReference.cache
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csprojAssemblyReference.cache
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csprojAssemblyReference.cache
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+C:\Seminars\CodeHub\train4\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Tools\bin\Debug\CMS.Tools.dll
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Tools\bin\Debug\CMS.Tools.pdb
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Tools\obj\Debug\CMS.Tools.csproj.CoreCompileInputs.cache
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Tools\obj\Debug\CMS.Tools.dll
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Tools\obj\Debug\CMS.Tools.pdb

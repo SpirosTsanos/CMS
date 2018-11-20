@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Flows>
+  <Flow Name="Customer" FlowType="CMS.NewClient.NewClientViewModel">
+    <FlowElement FlowElementType="CMS.NewClient.PersonalInfo.PersonalInfoViewModel" Home="true" />
+    <FlowElement FlowElementType="CMS.NewClient.AddressInfo.AddressInfoViewModel" Last="true" />
+  </Flow>
+  <Flow Name="Card" FlowType="CMS.NewCard.NewCardViewModel">
+    <FlowElement FlowElementType="CMS.NewCard.CardInfo.CardInfoViewModel" Home="true" />
+    <FlowElement FlowElementType="CMS.NewCard.CardIssuingBankInfo.CardIssuingBankInfoViewModel" />
+    <FlowElement FlowElementType="CMS.NewCard.CardHolderInfo.CardHolderInfoViewModel" Last="true" />
+  </Flow>
+  <Flow Name="Transaction" FlowType="CMS.NewTransaction.NewTransactionViewModel">
+    <FlowElement FlowElementType="CMS.NewTransaction.TransactionInfo.TransactionInfoViewModel" Home="true" />
+    <FlowElement FlowElementType="CMS.NewTransaction.TransactionItems.TransactionItemsViewModel" />
+    <FlowElement FlowElementType="CMS.NewTransaction.TransactionSummary.TransactionSummaryViewModel" Last="true" />
+  </Flow>
+</Flows>

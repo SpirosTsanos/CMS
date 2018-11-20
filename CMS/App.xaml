@@ -1,0 +1,36 @@
+﻿<Application x:Class="CMS.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CMS"
+             xmlns:fa="http://schemas.fontawesome.io/icons/"
+             xmlns:main="clr-namespace:CMS.MainClient"
+             xmlns:newClient="clr-namespace:CMS.NewClient"
+             xmlns:newCard="clr-namespace:CMS.NewCard"
+             xmlns:model="clr-namespace:CMS.Services.Models;assembly=CMS.Services"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <DataTemplate DataType="{x:Type main:ClientsViewModel}">
+            <main:ClientsView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type newClient:NewClientViewModel}">
+            <newClient:NewClientView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type newCard:NewCardViewModel}">
+            <newCard:NewCardView />
+        </DataTemplate>
+
+        <DataTemplate DataType="{x:Type model:Address}" x:Key="DataGridColumnAddress">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding Path=StreeName}" Margin="3" />
+                <TextBlock Text="{Binding Path=StreetNumber}" Margin="3"/>
+                <TextBlock Text="{Binding Path=City}" Margin="3"/>
+                <TextBlock Text="{Binding Path=PostCode}" Margin="3"/>
+                <TextBlock Text="{Binding Path=Country}" Margin="3"/>
+            </StackPanel>
+        </DataTemplate>
+
+    </Application.Resources>
+</Application>

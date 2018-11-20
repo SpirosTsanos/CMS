@@ -1,0 +1,17 @@
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\bin\Debug\CMS.Model.dll
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\bin\Debug\CMS.Model.pdb
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.csprojAssemblyReference.cache
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.dll
+C:\Users\Spiros\source\repos\codehub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.pdb
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\bin\Debug\CMS.Model.dll
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\bin\Debug\CMS.Model.pdb
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.csprojAssemblyReference.cache
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.csproj.CoreCompileInputs.cache
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.dll
+C:\Seminars\CodeHub\train4\CMS\CMS.Model\obj\Debug\CMS.Model.pdb
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Model\bin\Debug\CMS.Model.dll
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Model\bin\Debug\CMS.Model.pdb
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Model\obj\Debug\CMS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Model\obj\Debug\CMS.Model.dll
+C:\Users\Spiros\source\repos\codehub\train5\CMS\CMS.Model\obj\Debug\CMS.Model.pdb
